@@ -170,12 +170,12 @@ main {
 
 .new-post-form input {
   width: 300px;
-  color: #ccc;
+  color: #333;
 }
 
 .edit-post-form {
   margin-bottom: 5%;
-  color: #DCDCDC;
+  color: #333;
 }
 
 footer {
@@ -198,5 +198,5 @@ p {
 
 
 label {
-  color: #DCDCDC;
+  color: #333;
 }
